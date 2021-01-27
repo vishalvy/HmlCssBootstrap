@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+    font-size: 2.5em;
+    letter-spacing: 1.5px;
+    margin-top: 35px;
+    text-shadow: 2px 2px 5px rgb(83, 189, 57);
+}
+h2 {
+    margin-left: 40px;
+    margin-top: 30px;
+}
+h1,h2 {
+    text-transform: capitalize;
+    color:rgb(13, 117, 187);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#para {
+    color: rgb(8, 120, 139);
+    line-height: 25px;
+}
+
+body {
+     /* background-color: rgb(233, 236, 192); */
+     /* background-image: url("https://www.teahub.io/photos/full/95-952277_green-yellow-bg-yellow-and-green-bg.jpg");
+     background-repeat: no-repeat;
+     background-position: center;
+     background-attachment: fixed;
+     background-size: cover; */
+     background: rgb(233, 236, 192) url("https://www.teahub.io/photos/full/95-952277_green-yellow-bg-yellow-and-green-bg.jpg") no-repeat fixed center;
+}
+div {
+    background-color: rgba(219, 224, 155,0.4);
+    border: black solid 1px;
+    border-radius: 20px;
+    margin: 20px 38% 0 40px;
+    padding: 20px;
+}
+a:hover{
+    color: crimson;
+}
+ul{
+    list-style-type: square;
+}
