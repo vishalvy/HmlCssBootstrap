@@ -1,0 +1,8 @@
+.red {
+    background-color: crimson;
+    border: 1px solid black;
+}
+.orange{
+    background-color: orange;
+    border: 1px dotted black;
+}
